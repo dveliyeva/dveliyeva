@@ -22,7 +22,8 @@ I'm an aspiring Software Developer incorporating programming and design together
 - 👩🏻‍💻 I'm currently working on: [Admyn](https://github.com/LHwang01/Admyn), an Addiction Assistance web app at CUNY Tech Prep
 - 👩🏻‍🎓 I’m graduating with a CS degree this December 2021
 - 📲 How to reach me: dynveliyeva@gmail.com, [Linkedin](https://www.linkedin.com/in/dveliyeva/)
-- 👋🏼 My pronouns: She/Her
+- 🧋 Fun facts about me: I'm a capricorn and I love learning new languages on Duolingo! 🥰
+- 🌻 My pronouns: She/Her
 <!--
 ### My goals:
 - Land my first full-time tech position 🌟
