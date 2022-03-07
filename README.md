@@ -1,4 +1,4 @@
-### Welcome 👋🏼
+
 <!--
 **dveliyeva/dveliyeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,17 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-It's nice to meet you, my name is Dayana!
-I'm an aspiring Software Developer incorporating programming and design together.
 
-### A little about me:
+### Hello there, I'm Dayana!
 
-- 👩🏻‍💻 I'm currently working on: [Admyn](https://github.com/LHwang01/Admyn), an Addiction Assistance web app at CUNY Tech Prep
-- 👩🏻‍🎓 I’m graduating with a CS degree this December 2021
-- 🧋 Fun facts about me: I'm a Capricorn and I love learning new languages on Duolingo!
-- 🌻 My pronouns: She/Her
-- 📲 How to reach me: dynveliyeva@gmail.com, [Linkedin](https://www.linkedin.com/in/dveliyeva/)
-<!--
-### My goals:
-- Land my first full-time tech position 🌟
--->
+A little about me:
+- 🧈 Design and development are my bread and butter.
+- 👩🏻‍💻  I'm currently finishing up my se internship @Waave.
+- 👩🏻‍🎓  I just graduated with a CS degree in December 2021!
+- 🧋 Fun facts: I'm a Capricorn, and I love learning new languages on Duolingo.
+- 🌱 Let's connect: dynveliyeva@gmail.com, [Linkedin](https://www.linkedin.com/in/dveliyeva/)
