@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 ### Hello there, I'm Dayana!
 
-A little about me:
 - 🧈 Design and development are my bread and butter.
-- 👩🏻‍💻 &nbsp; I'm currently finishing up my se internship @Waave Taxi.
-- 👩🏻‍🎓 &nbsp; I just graduated with a CS degree in December 2021!
+- 👩🏻‍🎓 &nbsp; Dec'21, I graduated with a Bachelor of Science in Computer Science.
 - 🧋 Fun facts: I'm a Capricorn, and I love learning new languages on Duolingo.
 - 🌱 Let's connect: dynveliyeva@gmail.com, [Linkedin](https://www.linkedin.com/in/dveliyeva/)
